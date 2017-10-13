@@ -1,0 +1,13 @@
+{
+    "name": "208859/demo",
+    "type": "hdphp",
+    "require": {
+        "houdunwang/hdphp": "*"
+    },
+    "authors": [
+        {
+            "name": "vinchen",
+            "email": "esprit@139.com"
+        }
+    ]
+}
